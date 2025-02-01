@@ -3,18 +3,33 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Belov Sport Program documentation
+Belov Sport Program
 =================================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+Документация актуальна на 1 февраля 2025г.
 
+Установка
+===========
 
+1. Загрузить `.NET 8.0`_
+2. Скачать_ архив с программой и распаковать в нужную вам папку на диске
+
+.. warning:: 
+
+  | Данная версия программы будет работать до **01.03.2025!**
+  | После наступления данной даты программа не запустится!
+  | **До наступления данной даты будет выложена новая версия программы, которая продолжит работу в будущем**
+  | 
+  | Данная мера используется, так как программа находится в **альфа-тестировании**
+
+.. _`.NET 8.0`: https://dotnet.microsoft.com/en-us/download
+.. _Скачать: https://skiorient.ru
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Навигация:
 
-Links
-==================
-* Разработчик: https://vk.com/tttbba
+   pages/start
+   pages/подготовкаКСтарту
+   pages/проведениеСоревнований
+
+
