@@ -11,6 +11,12 @@ Belov Sport Program
 
 Документация актуальна на 1 февраля 2025г.
 
+.. note:: 
+   | По вопросам: VK_ TG_
+
+.. _VK: https://vk.com/tttbba
+.. _TG: https://t.me/tttbba 
+
 Установка
 ===========
 
