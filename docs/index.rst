@@ -2,6 +2,9 @@
    sphinx-quickstart on Sat Feb  1 23:12:16 2025.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
+.. contents:: Оглавление
+   :depth: 2
+   :local:
 
 Belov Sport Program
 =================================
@@ -25,10 +28,7 @@ Belov Sport Program
 .. _Скачать: https://skiorient.ru
 
 
-
-
-
-Созданые базы соревнований, первоначальные настройки
+Создание базы соревнований, первоначальные настройки
 ========================================================
 
 1. Запускаем программу - ``BelovSportProgram`` 
