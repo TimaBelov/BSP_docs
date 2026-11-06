@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Belov Sport Program'
-copyright = '2025, Timofei Belov'
+copyright = '2025-2026, Timofei Belov'
 author = 'Timofei Belov'
 release = '0.0.1'
 
