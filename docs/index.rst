@@ -45,6 +45,7 @@ Belov Sport Program
    start
    results
    documents
+   bib_designer
    official
    relay
    orgeo
